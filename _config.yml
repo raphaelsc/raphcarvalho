@@ -2,14 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://funwithbits.net
+url: https://raphcarvalho.com
 
 title: a programmer having fun with bits
-banner_title: Fun with Bits
-subtitle: Raphael S. Carvalho's space on the internet
+banner_title: Raph Carvalho's space on the internet
+subtitle: Distributed databases, operating systems, whatever I want to blog about.
 author: Raphael S. Carvalho (a.k.a. Raph Carvalho)
 simple_search: https://www.google.com/search
-description: Blog for programmers interested in distributed databases and low-level system details
+description: Blog for programmers interested in distributed databases, operating systems, and low-level system details
 keywords: database,distributed database,programming,algorithms,file system,kernel
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -98,7 +98,7 @@ disqus_short_name: funwithbits
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id: UA-91853321-1
+google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
