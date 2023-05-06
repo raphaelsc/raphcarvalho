@@ -1,0 +1,13 @@
+Preparation
+
+create _deploy which is mapped to repo:gh-pages
+
+1) Make changes
+
+2) 
+bundle exec rake generate
+bundle exec rake deploy
+
+Latter will write into _deploy and generate a commit automatically
+
+3) Push changes from _deploy into repo:gh-pages.
