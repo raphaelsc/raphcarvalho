@@ -1,8 +1,11 @@
 Preparation
 
-create _deploy which is mapped to repo:gh-pages
+create _deploy subdir which is mapped to repo:gh-pages
 
 1) Make changes
+
+To create a new blog post, do:
+bundle exec rake new_post["Blog migration from funwithbits.net"]
 
 2) 
 bundle exec rake generate
