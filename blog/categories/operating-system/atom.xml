@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Operating System | a programmer having fun with bits]]></title>
-  <link href="http://funwithbits.net/blog/categories/operating-system/atom.xml" rel="self"/>
-  <link href="http://funwithbits.net/"/>
-  <updated>2022-04-22T15:28:09-03:00</updated>
-  <id>http://funwithbits.net/</id>
+  <link href="https://raphcarvalho.com/blog/categories/operating-system/atom.xml" rel="self"/>
+  <link href="https://raphcarvalho.com/"/>
+  <updated>2023-05-06T15:28:46-03:00</updated>
+  <id>https://raphcarvalho.com/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. Raph Carvalho)]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Dissecting the ROM BIOS Shipped With QEMU for Fun]]></title>
-    <link href="http://funwithbits.net/blog/dissecting-the-rom-bios-shipped-with-qemu-for-fun/"/>
+    <link href="https://raphcarvalho.com/blog/dissecting-the-rom-bios-shipped-with-qemu-for-fun/"/>
     <updated>2017-07-30T22:28:00-03:00</updated>
-    <id>http://funwithbits.net/blog/dissecting-the-rom-bios-shipped-with-qemu-for-fun</id>
+    <id>https://raphcarvalho.com/blog/dissecting-the-rom-bios-shipped-with-qemu-for-fun</id>
     <content type="html"><![CDATA[<p>I&rsquo;m currently studying OS development with MIT course 6.828 mostly for fun.
 I highly recommend it for everyone wanting to have a better understanding of
 how computer works. It will teach you how an operating system works like xv6

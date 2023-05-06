@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[a programmer having fun with bits]]></title>
-  <link href="http://funwithbits.net/atom.xml" rel="self"/>
-  <link href="http://funwithbits.net/"/>
-  <updated>2022-04-22T15:28:09-03:00</updated>
-  <id>http://funwithbits.net/</id>
+  <link href="https://raphcarvalho.com/atom.xml" rel="self"/>
+  <link href="https://raphcarvalho.com/"/>
+  <updated>2023-05-06T15:28:46-03:00</updated>
+  <id>https://raphcarvalho.com/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. Raph Carvalho)]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Programmer's Guide to Meltdown]]></title>
-    <link href="http://funwithbits.net/blog/programmers-guide-to-meltdown/"/>
+    <link href="https://raphcarvalho.com/blog/programmers-guide-to-meltdown/"/>
     <updated>2018-01-09T23:57:48-02:00</updated>
-    <id>http://funwithbits.net/blog/programmers-guide-to-meltdown</id>
+    <id>https://raphcarvalho.com/blog/programmers-guide-to-meltdown</id>
     <content type="html"><![CDATA[<p>Ok, what I want here is to guide you through a Meltdown proof-of-concept that
 peeks into kernel data that cpu is supposed to protect. Unfortunately, that
 promise was broken and virtually all intel x86 cpu hosts are vulnerable until
@@ -342,9 +342,9 @@ involved: <a href="https://github.com/IAIK/meltdown/">https://github.com/IAIK/me
   
   <entry>
     <title type="html"><![CDATA[Dissecting the ROM BIOS Shipped With QEMU for Fun]]></title>
-    <link href="http://funwithbits.net/blog/dissecting-the-rom-bios-shipped-with-qemu-for-fun/"/>
+    <link href="https://raphcarvalho.com/blog/dissecting-the-rom-bios-shipped-with-qemu-for-fun/"/>
     <updated>2017-07-30T22:28:00-03:00</updated>
-    <id>http://funwithbits.net/blog/dissecting-the-rom-bios-shipped-with-qemu-for-fun</id>
+    <id>https://raphcarvalho.com/blog/dissecting-the-rom-bios-shipped-with-qemu-for-fun</id>
     <content type="html"><![CDATA[<p>I&rsquo;m currently studying OS development with MIT course 6.828 mostly for fun.
 I highly recommend it for everyone wanting to have a better understanding of
 how computer works. It will teach you how an operating system works like xv6
@@ -624,9 +624,9 @@ I&rsquo;ll also try to keep posting as I go through the OS course offered by MIT
   
   <entry>
     <title type="html"><![CDATA[Programming and Classical Music]]></title>
-    <link href="http://funwithbits.net/blog/programming-and-classical-music/"/>
+    <link href="https://raphcarvalho.com/blog/programming-and-classical-music/"/>
     <updated>2017-07-16T00:03:39-03:00</updated>
-    <id>http://funwithbits.net/blog/programming-and-classical-music</id>
+    <id>https://raphcarvalho.com/blog/programming-and-classical-music</id>
     <content type="html"><![CDATA[<p>There&rsquo;s some magic about classical music that helps me as a programmer.
 Well, I&rsquo;m definitely not the best programmer out there, so when I find it hard
 to come up with a creative solution, I listen to classical music over and over
@@ -676,9 +676,9 @@ but whichever genre you like the most.</p>
   
   <entry>
     <title type="html"><![CDATA[C++ Framework for Writing Servers Which Are as Fast as Usain Bolt]]></title>
-    <link href="http://funwithbits.net/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt/"/>
+    <link href="https://raphcarvalho.com/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt/"/>
     <updated>2017-02-12T17:45:25-02:00</updated>
-    <id>http://funwithbits.net/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt</id>
+    <id>https://raphcarvalho.com/blog/c-plus-plus-framework-for-writing-servers-as-fast-as-usain-bolt</id>
     <content type="html"><![CDATA[<p><em>Prerequisite</em>: C++</p>
 
 <p>What if I tell you that there&rsquo;s a framework out there that allows you to write
@@ -717,7 +717,7 @@ isolated machine.</p>
 you have threads accessing shared resources, whereas a Seastar application will
 look like the right picture because of its shared-nothing design, look:</p>
 
-<p><img src="http://funwithbits.net/images/shared-nothing-pic.png" title="shared-nothing" alt="images"></p>
+<p><img src="https://raphcarvalho.com/images/shared-nothing-pic.png" title="shared-nothing" alt="images"></p>
 
 <p><strong>2.</strong> Each Seastar thread will have its own scheduler for small asynchronous tasks
 (usually stored in <a href="http://en.cppreference.com/w/cpp/utility/functional/function">std::function</a>),
@@ -814,7 +814,7 @@ Seastar apps, please go to:
 <a href="https://github.com/scylladb/seastar/tree/master/apps">https://github.com/scylladb/seastar/tree/master/apps</a></p>
 
 <p>If you need help, send an e-mail to the project&rsquo;s mailing list:
-<a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#58;&#115;&#101;&#x61;&#115;&#116;&#x61;&#x72;&#45;&#100;&#101;&#118;&#x40;&#x67;&#111;&#111;&#x67;&#x6c;&#101;&#103;&#x72;&#111;&#117;&#x70;&#115;&#46;&#99;&#111;&#109;">&#x73;&#101;&#97;&#x73;&#116;&#x61;&#114;&#x2d;&#x64;&#x65;&#x76;&#x40;&#x67;&#x6f;&#111;&#x67;&#x6c;&#101;&#103;&#114;&#x6f;&#x75;&#x70;&#x73;&#x2e;&#99;&#x6f;&#x6d;</a></p>
+<a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#115;&#101;&#97;&#x73;&#x74;&#97;&#x72;&#45;&#x64;&#101;&#118;&#64;&#x67;&#111;&#111;&#x67;&#x6c;&#101;&#103;&#114;&#x6f;&#117;&#x70;&#x73;&#x2e;&#x63;&#111;&#109;">&#x73;&#101;&#97;&#x73;&#x74;&#x61;&#114;&#45;&#x64;&#101;&#118;&#64;&#103;&#111;&#111;&#103;&#108;&#101;&#x67;&#x72;&#111;&#x75;&#112;&#115;&#x2e;&#x63;&#x6f;&#109;</a></p>
 
 <h3>That&rsquo;s it&hellip;</h3>
 
@@ -830,9 +830,9 @@ write a simple server.</p>
   
   <entry>
     <title type="html"><![CDATA[Handling Game States]]></title>
-    <link href="http://funwithbits.net/blog/handling-game-states/"/>
+    <link href="https://raphcarvalho.com/blog/handling-game-states/"/>
     <updated>2017-01-28T22:52:39-02:00</updated>
-    <id>http://funwithbits.net/blog/handling-game-states</id>
+    <id>https://raphcarvalho.com/blog/handling-game-states</id>
     <content type="html"><![CDATA[<p><em>Prerequisite</em>: basic C++ and game programming knowledge</p>
 
 <p>When you start any game, you expect to see a loading screen, followed by the
@@ -1029,9 +1029,9 @@ title.</p>
   
   <entry>
     <title type="html"><![CDATA[Ready to Have Fun With Bits?!]]></title>
-    <link href="http://funwithbits.net/blog/hello-world/"/>
+    <link href="https://raphcarvalho.com/blog/hello-world/"/>
     <updated>2017-01-21T18:07:34-02:00</updated>
-    <id>http://funwithbits.net/blog/hello-world</id>
+    <id>https://raphcarvalho.com/blog/hello-world</id>
     <content type="html"><![CDATA[<p>Hi everyone. I&rsquo;m really glad that I finally launched this blog. Fun With Bits.</p>
 
 <p>Special thanks goes to <a href="http://catonmat.net">Peteris Krumins</a> who shared some
