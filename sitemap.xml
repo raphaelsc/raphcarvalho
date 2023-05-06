@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://raphcarvalho.com/blog/blog-migration-from-funwithbits-dot-net/</loc>
+<lastmod>2023-05-06T15:49:39-03:00</lastmod>
+</url>
+<url>
 <loc>https://raphcarvalho.com/blog/programmers-guide-to-meltdown/</loc>
 <lastmod>2018-01-09T23:57:48-02:00</lastmod>
 </url>
@@ -56,5 +60,8 @@
 </url>
 <url>
 <loc>https://raphcarvalho.com/blog/categories/security/</loc>
+</url>
+<url>
+<loc>https://raphcarvalho.com/blog/categories/misc/</loc>
 </url>
 </urlset>

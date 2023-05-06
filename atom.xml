@@ -4,7 +4,7 @@
   <title><![CDATA[a programmer having fun with bits]]></title>
   <link href="https://raphcarvalho.com/atom.xml" rel="self"/>
   <link href="https://raphcarvalho.com/"/>
-  <updated>2023-05-06T15:28:46-03:00</updated>
+  <updated>2023-05-06T15:51:05-03:00</updated>
   <id>https://raphcarvalho.com/</id>
   <author>
     <name><![CDATA[Raphael S. Carvalho (a.k.a. Raph Carvalho)]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blog Migration From funwithbits.net]]></title>
+    <link href="https://raphcarvalho.com/blog/blog-migration-from-funwithbits-dot-net/"/>
+    <updated>2023-05-06T15:49:39-03:00</updated>
+    <id>https://raphcarvalho.com/blog/blog-migration-from-funwithbits-dot-net</id>
+    <content type="html"><![CDATA[<p>Blog was migrated from funwithbits.net.</p>
+
+<p>From today on, I&rsquo;ll try to blog about some interesting stuff once a month.</p>
+
+<p>Stay tuned!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Programmer's Guide to Meltdown]]></title>
@@ -814,7 +827,7 @@ Seastar apps, please go to:
 <a href="https://github.com/scylladb/seastar/tree/master/apps">https://github.com/scylladb/seastar/tree/master/apps</a></p>
 
 <p>If you need help, send an e-mail to the project&rsquo;s mailing list:
-<a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#115;&#101;&#97;&#x73;&#x74;&#97;&#x72;&#45;&#x64;&#101;&#118;&#64;&#x67;&#111;&#111;&#x67;&#x6c;&#101;&#103;&#114;&#x6f;&#117;&#x70;&#x73;&#x2e;&#x63;&#111;&#109;">&#x73;&#101;&#97;&#x73;&#x74;&#x61;&#114;&#45;&#x64;&#101;&#118;&#64;&#103;&#111;&#111;&#103;&#108;&#101;&#x67;&#x72;&#111;&#x75;&#112;&#115;&#x2e;&#x63;&#x6f;&#109;</a></p>
+<a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x73;&#101;&#x61;&#115;&#x74;&#x61;&#114;&#45;&#x64;&#101;&#118;&#64;&#103;&#111;&#x6f;&#x67;&#108;&#101;&#x67;&#x72;&#111;&#x75;&#112;&#x73;&#x2e;&#x63;&#111;&#109;">&#115;&#101;&#97;&#x73;&#116;&#x61;&#x72;&#x2d;&#100;&#x65;&#x76;&#x40;&#x67;&#x6f;&#111;&#103;&#108;&#x65;&#x67;&#114;&#x6f;&#117;&#x70;&#115;&#x2e;&#99;&#x6f;&#x6d;</a></p>
 
 <h3>That&rsquo;s it&hellip;</h3>
 
